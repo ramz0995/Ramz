@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gagner de l'argent avec Internet</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; background: #f9f9f9; color: #333; }
+        header { text-align: center; padding: 2em; background: #007BFF; color: white; }
+        header h1 { font-size: 2.5em; }
+        header p { font-size: 1.2em; }
+        .container { max-width: 900px; margin: auto; padding: 2em; }
+        .btn { display: block; text-align: center; background: #28a745; color: white; padding: 10px 15px; text-decoration: none; font-weight: bold; margin: 1em auto; width: 200px; border-radius: 5px; }
+        .btn:hover { background: #218838; }
+        .section { margin-bottom: 2em; }
+        .section h2 { color: #007BFF; }
+        footer { text-align: center; padding: 1em; background: #333; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gagner de l'argent avec Internet</h1>
+        <p>Le guide complet pour transformer vos idées en revenus.</p>
+        <a href="#" class="btn">Achetez maintenant - 30 €</a>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Ce que vous apprendrez</h2>
+            <ul>
+                <li>Comment choisir une niche rentable.</li>
+                <li>Les meilleures plateformes pour gagner vos premiers euros.</li>
+                <li>Les secrets du marketing d'affiliation.</li>
+                <li>Créer et vendre des produits numériques.</li>
+                <li>Attirer une audience et développer votre marque.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Bonus exclusif</h2>
+            <p>Avec votre achat, recevez gratuitement un modèle de plan d’action pour organiser vos objectifs et maximiser vos revenus.</p>
+        </div>
+        <a href="#" class="btn">Achetez maintenant - 30 €</a>
+    </div>
+    <footer>
+        <p>© 2024 Gagner de l'argent avec Internet. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
